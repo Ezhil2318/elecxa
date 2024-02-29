@@ -5,7 +5,6 @@
 body{
     background-image: url(./files/bg1.jpg);
     background-repeat: no-repeat;
-    height: 100vh;
     background-size: 100% 100%; 
 }
 
@@ -23,11 +22,7 @@ body{
 #poster{
     background-color: antiquewhite;
 }
-#footer{
-    position: fixed;
-    bottom: 0;
-    width: 100vw;
-}
+
 .foot{
     font-size: 3vw;
     font-family: "Shantell Sans", cursive;
