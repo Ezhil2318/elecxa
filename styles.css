@@ -70,7 +70,16 @@ body{
     -webkit-text-stroke-width: 2px;
 }
 
-
+.sponser{
+    font-size: 3vw;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.5vw;
+    color: yellow;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+}
 
 .foot{
     font-size: 3vw;
